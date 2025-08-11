@@ -9,7 +9,6 @@
 
 ⚡Fun fact: I’m passionate about combining AI and education to empower learning!
 
-🤔 I’m looking for 6-months internship in Data Science and AI.
 
 📫 How to reach me: thuomenghor@gmail.com
 
