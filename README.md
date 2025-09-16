@@ -3,7 +3,7 @@
 ### 🚀 Data Scientist | AI Enthusiast | Paris Saclay Student
 ---
 ## 💫 About Me:
-🎓 I’m a master of AI student in University of Paris Saclay.
+🎓 Master’s student in Artificial Intelligence at Université Paris-Saclay
 
 💡 I thrive on exploring cutting-edge technologies, solving complex problems, and creating impactful solutions.
 
