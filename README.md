@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Menghor THUO
 ---
-### 🚀 Data Scientist | AI Enthusiast | ENSIIE Student
+### 🚀 Data Scientist | AI Enthusiast | Paris Saclay Student
 ---
 ## 💫 About Me:
-🎓 I’m a 2nd-year student at ENSIIE, specializing in Data Science.
+🎓 I’m a master of AI student in University of Paris Saclay.
 
 💡 I thrive on exploring cutting-edge technologies, solving complex problems, and creating impactful solutions.
 
